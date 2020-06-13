@@ -9,7 +9,7 @@
     },
      "PASSWORD": {
       "description": "shadowsocks的密码，可以使用uuid作为密码（http://www.uuid.online/在线生成）",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "25012a46-2462-4f55-b7a6-45c06c9c9ae3"
     },
 
     "VER": {

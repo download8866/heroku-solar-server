@@ -7,7 +7,7 @@ fi
 echo ${VER}
 
 if [[ -z "${PASSWORD}" ]]; then
-  PASSWORD="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  PASSWORD="25012a46-2462-4f55-b7a6-45c06c9c9ae3"
 fi
 echo ${PASSWORD}
 
