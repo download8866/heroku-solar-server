@@ -17,5 +17,7 @@ COPY entrypoint.sh /entrypoint.sh
 # 修改权限
 RUN chmod +x /entrypoint.sh
 
+
+
 # 执行应用程序命令
 CMD /entrypoint.sh
